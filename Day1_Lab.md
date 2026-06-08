@@ -10,7 +10,7 @@
 | ChatGPT    | 4/5                | 5/5           | 5/5             | Fast, reliable all-rounder; best for coding and reasoning.              |
 | Claude     | 5/5                | 5/5           | 5/5             | Best for thorough summarisation and nuanced writing.                    |
 | Gemini     | 3/5                | 1/5           | 3/5             | Useful for quick facts but unreliable with constraints and reasoning.   |
-| Perplexity | 4/5                | 3/5           | 4/5             | Best for cited facts; weaker on strict code format and reasoning depth. |
+| Perplexity | 4/5                | 3/5           | 3/5             | Best for cited facts; weaker on strict code format and reasoning depth. |
 
 ---
 
